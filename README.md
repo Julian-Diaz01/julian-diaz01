@@ -9,6 +9,7 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=Julian-Diaz01&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Julian-Diaz01&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Julian-Diaz01&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
