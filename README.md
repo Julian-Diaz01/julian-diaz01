@@ -30,18 +30,19 @@
 ```ts
 const julian = {
   location: "Berlin, Germany 🇩🇪",
-  role:     "Frontend Engineer",
-  focus:    ["React", "TypeScript", "Mobile (React Native / Flutter)"],
-  passions: ["beautiful UIs", "responsive design", "DX & a11y"],
-  values:   ["clear communication", "thorough testing", "team collaboration"],
-  offline:  ["Berlin tech scene 🍻", "design trends 🎨", "good coffee ☕"],
-  motto:    "Turn complex challenges into seamless experiences.",
+  role:     "Frontend Engineer open to new opportunities",
+  focus:    ["React", "TypeScript", "Next.js", "React Native", "Flutter"],
+  strengths:["responsive UI", "clean architecture", "accessibility", "team collaboration"],
+  value:    "I turn product ideas into polished, reliable, user-friendly interfaces.",
+  lookingFor:["frontend roles", "mobile projects", "product teams", "creative tech"],
+  motto:    "Build interfaces that feel simple, fast, and worth using.",
 };
 ```
 
-> 👋 Hi, I'm **Julian** — a Berlin-based Frontend Engineer who loves making the web a more delightful place to explore.
-> I thrive on feature development, responsive UI, and turning messy problems into clean, accessible interfaces.
-> I believe communication is the real superpower 🔑 — let's build something amazing together. 🌟
+> 👋 Hi, I'm **Julian**, a Berlin-based Frontend Engineer who builds modern, responsive, and accessible digital experiences.
+> I specialize in **React**, **TypeScript**, **Next.js**, and mobile development with **React Native** and **Flutter**.
+> I enjoy joining product-minded teams where I can turn ideas into clean interfaces, improve user experience, and ship reliable features with thoughtful code.
+> If you're hiring for a frontend or mobile role, I'd be happy to connect and explore how I can contribute to your team.
 
 ---
 
@@ -143,16 +144,16 @@ const julian = {
 
 <div align="center">
   <a href="https://github.com/Julian-Diaz01">
-    <img height="170" src="https://github-readme-stats.vercel.app/api?username=Julian-Diaz01&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&card_width=450" alt="Julian's GitHub stats" />
+    <img height="170" src="https://github-readme-stats.shion.dev/api?username=Julian-Diaz01&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&card_width=450" alt="Julian's GitHub stats" />
   </a>
   <a href="https://github.com/Julian-Diaz01">
-    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Julian-Diaz01&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&card_width=350" alt="Top languages" />
+    <img height="170" src="https://github-readme-stats.shion.dev/api/top-langs/?username=Julian-Diaz01&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&card_width=350" alt="Top languages" />
   </a>
 </div>
 
 <div align="center">
   <a href="https://github.com/Julian-Diaz01">
-    <img src="https://nirzak-streak-stats.vercel.app/?user=Julian-Diaz01&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+    <img src="https://streak-stats.demolab.com/?user=Julian-Diaz01&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
   </a>
 </div>
 
@@ -160,7 +161,7 @@ const julian = {
 
 <div align="center">
   <a href="https://github.com/Julian-Diaz01">
-    <img src="https://github-profile-trophy.vercel.app/?username=Julian-Diaz01&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" alt="GitHub Trophies" />
+    <img src="https://github-profile-trophy-gamma.vercel.app/?username=Julian-Diaz01&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" alt="GitHub Trophies" />
   </a>
 </div>
 
