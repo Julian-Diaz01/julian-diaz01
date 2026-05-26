@@ -142,29 +142,6 @@ const julian = {
 <!-- ====== GITHUB STATS ====== -->
 ## 📊 GitHub Stats
 
-<div align="center">
-  <a href="https://github.com/Julian-Diaz01">
-    <img height="170" src="https://github-readme-stats.shion.dev/api?username=Julian-Diaz01&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&card_width=450" alt="Julian's GitHub stats" />
-  </a>
-  <a href="https://github.com/Julian-Diaz01">
-    <img height="170" src="https://github-readme-stats.shion.dev/api/top-langs/?username=Julian-Diaz01&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&card_width=350" alt="Top languages" />
-  </a>
-</div>
-
-<div align="center">
-  <a href="https://github.com/Julian-Diaz01">
-    <img src="https://streak-stats.demolab.com/?user=Julian-Diaz01&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-  </a>
-</div>
-
-<br/>
-
-<div align="center">
-  <a href="https://github.com/Julian-Diaz01">
-    <img src="https://github-profile-trophy-gamma.vercel.app/?username=Julian-Diaz01&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" alt="GitHub Trophies" />
-  </a>
-</div>
-
 <!-- ====== ACTIVITY GRAPH ====== -->
 ### 📈 Contribution Activity
 
