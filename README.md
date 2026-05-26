@@ -1,11 +1,217 @@
-# 💫 About Me:
-👋 Hello there!<br>I'm a Berlin-based Frontend Engineer with a passion for crafting stunning user interfaces and making the web a more enjoyable place to explore! 🚀 <br>With a knack for feature development and a love for responsive UI design, I thrive on turning complex challenges into seamless experiences. I believe that effective communication is key 🔑, <br>and I enjoy collaborating across teams to elevate our projects to new heights. My commitment to thorough testing ensures that every line of code shines with quality! 💡<br>When I'm not coding, you can find me exploring the vibrant tech scene in Berlin or diving into the latest design trends.<br><br> Let’s connect and create something amazing together! 🌟
+<!-- ====== BANNER ====== -->
+<div align="center">
+  <a href="https://github.com/Julian-Diaz01">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=220&section=header&text=Julian%20Diaz&fontSize=70&fontAlignY=35&fontColor=ffffff&desc=Berlin-based%20Frontend%20Engineer%20%F0%9F%9A%80&descSize=20&descAlignY=58&animation=twinkling" alt="header" />
+  </a>
+</div>
 
+<!-- ====== TYPING ANIMATION ====== -->
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=900&color=38B2AC&center=true&vCenter=true&width=720&lines=Frontend+Engineer+%F0%9F%92%BB;Crafting+stunning+user+interfaces+%E2%9C%A8;Responsive+UI%2C+clean+code%2C+thoughtful+UX;Always+learning%2C+always+building+%F0%9F%9A%80" alt="Typing SVG" />
+  </a>
+</div>
 
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37) ![Ionic](https://img.shields.io/badge/Ionic-%233880FF.svg?style=for-the-badge&logo=Ionic&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![OpenGL](https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=for-the-badge&logo=opengl) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Dreamweaver](https://img.shields.io/badge/Adobe%20Dreamweaver-FF61F6.svg?style=for-the-badge&logo=Adobe%20Dreamweaver&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
-# 📊 GitHub Stats:
-![](https://nirzak-streak-stats.vercel.app/?user=Julian-Diaz01&theme=dark&hide_border=false)<br/>
+<!-- ====== BADGES ====== -->
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Julian-Diaz01&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <a href="https://github.com/Julian-Diaz01?tab=followers">
+    <img src="https://img.shields.io/github/followers/Julian-Diaz01?label=Followers&style=flat&color=0e75b6" alt="followers" />
+  </a>
+  <img src="https://img.shields.io/badge/Focus-Frontend%20%E2%80%A2%20Mobile-blue?style=flat&color=0e75b6" alt="focus" />
+  <img src="https://img.shields.io/badge/Based%20in-Berlin%20%F0%9F%87%A9%F0%9F%87%AA-orange?style=flat" alt="location" />
+</div>
+
+<br/>
+
+<!-- ====== ABOUT ME ====== -->
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> About Me
+
+```ts
+const julian = {
+  location: "Berlin, Germany 🇩🇪",
+  role:     "Frontend Engineer",
+  focus:    ["React", "TypeScript", "Mobile (React Native / Flutter)"],
+  passions: ["beautiful UIs", "responsive design", "DX & a11y"],
+  values:   ["clear communication", "thorough testing", "team collaboration"],
+  offline:  ["Berlin tech scene 🍻", "design trends 🎨", "good coffee ☕"],
+  motto:    "Turn complex challenges into seamless experiences.",
+};
+```
+
+> 👋 Hi, I'm **Julian** — a Berlin-based Frontend Engineer who loves making the web a more delightful place to explore.
+> I thrive on feature development, responsive UI, and turning messy problems into clean, accessible interfaces.
+> I believe communication is the real superpower 🔑 — let's build something amazing together. 🌟
 
 ---
 
+<!-- ====== TECH STACK (grouped) ====== -->
+## 🧰 Tech Stack
+
+<details open>
+<summary><b>💻 Languages</b></summary>
+<br/>
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" />
+</p>
+</details>
+
+<details open>
+<summary><b>🎨 Frontend</b></summary>
+<br/>
+<p>
+  <img src="https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redux-593d88?style=for-the-badge&logo=redux&logoColor=white" />
+  <img src="https://img.shields.io/badge/React%20Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white" />
+  <img src="https://img.shields.io/badge/React%20Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" />
+  <img src="https://img.shields.io/badge/React%20Hook%20Form-EC5990?style=for-the-badge&logo=reacthookform&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
+  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-8511FA?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />
+</p>
+</details>
+
+<details open>
+<summary><b>📱 Mobile</b></summary>
+<br/>
+<p>
+  <img src="https://img.shields.io/badge/React%20Native-20232a?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Expo-1C1E24?style=for-the-badge&logo=expo&logoColor=D04A37" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white" />
+</p>
+</details>
+
+<details open>
+<summary><b>⚙️ Backend &amp; Cloud</b></summary>
+<br/>
+<p>
+  <img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-404d59?style=for-the-badge&logo=express&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure-0072C6?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+</p>
+</details>
+
+<details open>
+<summary><b>🎮 Game / Graphics</b></summary>
+<br/>
+<p>
+  <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenGL-FFFFFF?style=for-the-badge&logo=opengl&logoColor=black" />
+</p>
+</details>
+
+<details open>
+<summary><b>🎨 Design &amp; Creative</b></summary>
+<br/>
+<p>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Adobe-FF0000?style=for-the-badge&logo=adobe&logoColor=white" />
+  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" />
+  <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white" />
+  <img src="https://img.shields.io/badge/After%20Effects-9999FF?style=for-the-badge&logo=adobeaftereffects&logoColor=white" />
+  <img src="https://img.shields.io/badge/Premiere%20Pro-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dreamweaver-FF61F6?style=for-the-badge&logo=adobedreamweaver&logoColor=white" />
+</p>
+</details>
+
+<details open>
+<summary><b>🛠️ Tooling &amp; Collaboration</b></summary>
+<br/>
+<p>
+  <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitLab%20CI-181717?style=for-the-badge&logo=gitlab&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jira-0A0FFF?style=for-the-badge&logo=jira&logoColor=white" />
+  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
+</p>
+</details>
+
+---
+
+<!-- ====== GITHUB STATS ====== -->
+## 📊 GitHub Stats
+
+<div align="center">
+  <a href="https://github.com/Julian-Diaz01">
+    <img height="170" src="https://github-readme-stats.vercel.app/api?username=Julian-Diaz01&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&card_width=450" alt="Julian's GitHub stats" />
+  </a>
+  <a href="https://github.com/Julian-Diaz01">
+    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Julian-Diaz01&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&card_width=350" alt="Top languages" />
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://github.com/Julian-Diaz01">
+    <img src="https://nirzak-streak-stats.vercel.app/?user=Julian-Diaz01&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  </a>
+</div>
+
+<br/>
+
+<div align="center">
+  <a href="https://github.com/Julian-Diaz01">
+    <img src="https://github-profile-trophy.vercel.app/?username=Julian-Diaz01&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" alt="GitHub Trophies" />
+  </a>
+</div>
+
+<!-- ====== ACTIVITY GRAPH ====== -->
+### 📈 Contribution Activity
+
+<div align="center">
+  <a href="https://github.com/Julian-Diaz01">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Julian-Diaz01&bg_color=1a1b27&color=38bdae&line=a9fef7&point=ffffff&area=true&hide_border=true" alt="activity graph" />
+  </a>
+</div>
+
+<!-- ====== SNAKE ANIMATION ====== -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Julian-Diaz01/Julian-Diaz01/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+</div>
+
+---
+
+<!-- ====== QUOTE ====== -->
+## 💭 Dev Quote
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="random dev quote" />
+</div>
+
+---
+
+<!-- ====== CONNECT ====== -->
+## 🤝 Let's Connect
+
+<div align="center">
+  <a href="https://github.com/Julian-Diaz01">
+    <img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="mailto:judadi1994@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/julian-ddiaz/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+
+</div>
+
+<br/>
+
+<!-- ====== FOOTER ====== -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer&animation=twinkling" alt="footer wave" />
+</div>
+
+<div align="center">
+  <sub>⭐ <i>“The details are not the details. They make the design.”</i> — Charles Eames</sub>
+</div>
