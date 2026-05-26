@@ -139,9 +139,6 @@ const julian = {
 
 ---
 
-<!-- ====== GITHUB STATS ====== -->
-## 📊 GitHub Stats
-
 <!-- ====== ACTIVITY GRAPH ====== -->
 ### 📈 Contribution Activity
 
