@@ -126,6 +126,3 @@ const julian = {
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer&animation=twinkling" alt="footer wave" />
 </div>
 
-<div align="center">
-  <sub>⭐ <i>“The details are not the details. They make the design.”</i> — Charles Eames</sub>
-</div>
